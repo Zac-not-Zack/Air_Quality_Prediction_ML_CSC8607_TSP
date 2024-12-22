@@ -10,10 +10,12 @@ The dataset contains the data recolted from gas sensors deployed in an Italian c
 Available at : https://archive.ics.uci.edu/dataset/360/air+quality
 
 # 🎯 Objective 
-Develop a ML model that is capable of predicting the concentration of CO gas by using the concentration level of other gases, humidity level, temperature as well as time pattern.
+Develop a ML regression model that is capable of predicting the concentration of CO gas by using the concentration level of other gases, humidity level, temperature as well as time pattern.
 
-# :gear: Installation
-The package of the project will be available on PyPi soon after the complete structuring and validation. Stay tuned!
+# 💻 Machine Learning
+The ML library used : Scikit-Learn
+
+ML models used in this project : Linear Regression, Decision Tree, Random Forest, RANSAC, Ridge and Dummy Regressor
 
 # :pencil: Usage
 In the version 1.0.0 of this module, it contains a total of 10 functions that are conceived to facilitate the analysis of a running Apache server. Thanks to our CLI you can choose whichever functions that you wish. 
