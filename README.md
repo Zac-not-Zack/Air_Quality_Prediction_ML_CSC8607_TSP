@@ -1,5 +1,6 @@
 # 🤖 Projet ML : Prediction of the quality of air 
 Pollutants in focus : CO (target), NMHC, C6H6, NOx, NO2, O3
+
 Other variables : Humidity, Temperature
 
 Contributor : WONG Hoe Ziet (TSP MAIA 2025 🐝)
