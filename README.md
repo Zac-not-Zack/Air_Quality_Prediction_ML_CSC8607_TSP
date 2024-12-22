@@ -1,4 +1,4 @@
-# 🤖 Projet ML : Prediction of the quality of air 
+# 🤖 Projet ML : Prediction of the quality of air 📇
 Pollutants in focus : CO (target), NMHC, C6H6, NOx, NO2, O3
 
 Other variables : Humidity, Temperature
@@ -19,7 +19,9 @@ ML models used in this project : Linear Regression (LR), Decision Tree (DT), Ran
 
 Choosen metrics : MAE & R2 score
 
-# 📓 Notebook's content
+The results of different models and visualizations of data are directly available in the notebook.
+
+# 📓 Content of the notebook
 This notebook contains notably the code of the project and also the results of execution of different sections of the project.
 
 The notebook is consisted of :
@@ -36,7 +38,7 @@ The notebook is consisted of :
 
 # :lady_beetle: Reporting Bugs
 
-Teamwork is the key, please report at https://github.com/Zac-not-Zack/apache_analyser/issues if you come across any bug.
+Teamwork is the key, please report at (https://github.com/Zac-not-Zack/Air_Quality_Prediction_ML_CSC8607_TSP/issues) if you come across any bug.
 
 
 # :warning: Licence
